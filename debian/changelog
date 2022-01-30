@@ -1,11 +1,5 @@
-linux-firmware-pine64-rtl8723-bt (20200705+0ubports0) xenial; urgency=medium
+linux-firmware-pine64-rtl8723-bt (20200705) unstable; urgency=medium
 
-  * Drop config suffixes; link legacy locations
+  * Added rtl8723 BT firmware for PinePhone
 
- -- Dalton Durst <dalton@ubports.com>  Fri, 09 Apr 2021 14:06:37 -0500
-
-linux-firmware-pine64-rtl8723-bt (20190223+0ubports0) xenial; urgency=medium
-
-  * Initial release
-
- -- Dalton Durst <dalton@ubports.com>  Sun, 12 Apr 2020 13:25:13 -0500
+ -- Rafael Diniz <rafael@riseup.net>  Sun, 30 Jan 2022 16:20:00 +0300
